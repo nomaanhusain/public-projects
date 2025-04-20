@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Delivery App Commission Calculator</string>
+    <string name="commission_calculator_query">This app was developed by Mohd. Nomaan Husain for calculating commission for apps along with GST. If any assistance or feedback is required please send to nomaanhusain@gmail.com with subject Delivery App Commission Calculator Query</string>
+    <string name="note_increase_money">Here you can input the current price of an item on your menu and you can find what price you should set on the online app so that you receive the same amount in your account as the price on your menu.</string>
+    <string name="info_about_calculation">The calculation for commission is done based on the price of the item on the Delivery App, so increasing the price by (suppose commission is 22%) 22%  will not give you an accurate result for this calculations. Calculation of PGC is done based on gross price (gross price = price on app + 5% GST)  and not the price on your app, this calculation keeps those factors in account</string>
+    <string name="note_get_money">Here you can input the sale price on the online app and you can find the amount you will receive in your account after all deductions. Calculation of PGC is done based on gross price (gross price = price on app + 5% GST)  and not the price on your app</string>
+</resources>

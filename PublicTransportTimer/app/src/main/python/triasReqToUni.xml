@@ -1,0 +1,28 @@
+<ns0:Trias xmlns:ns0="http://www.vdv.de/trias" xmlns:ns1="http://www.siri.org.uk/siri" version="1.2">
+	<ns0:ServiceRequest>
+		<ns1:RequestTimestamp>2023-06-29T22:00:00</ns1:RequestTimestamp>
+		<ns1:RequestorRef>mOhAmmAd_nOmAAn_hUssAIn</ns1:RequestorRef>
+		<ns0:RequestPayload>
+			<ns0:TripRequest>
+				<ns0:Origin>
+					<ns0:LocationRef>
+						<ns0:StopPointRef>de:08335:11918</ns0:StopPointRef>
+					</ns0:LocationRef>
+					<ns0:DepArrTime>2023-08-29T09:56:17Z</ns0:DepArrTime>
+				</ns0:Origin>
+				<ns0:Destination>
+					<ns0:LocationRef>
+            <ns0:StopPointRef>de:08335:11111</ns0:StopPointRef>
+					</ns0:LocationRef>
+				</ns0:Destination>
+				<ns0:Params>
+					<ns0:IncludeTurnDescription>true</ns0:IncludeTurnDescription>
+					<ns0:IncludeTrackSections>true</ns0:IncludeTrackSections>
+					<ns0:IncludeLegProjection>false</ns0:IncludeLegProjection>
+					<ns0:IncludeIntermediateStops>true</ns0:IncludeIntermediateStops>
+					<ns0:IncludeFares>false</ns0:IncludeFares>
+				</ns0:Params>
+			</ns0:TripRequest>
+		</ns0:RequestPayload>
+	</ns0:ServiceRequest>
+</ns0:Trias>

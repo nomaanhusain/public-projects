@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Collaborate and Plan Together Across Multiple Devices on Project Manager’s Minimalist Interface.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <!--    Signup strings-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="sign_in_description_text">Enter your email id and password, to sign in.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <!--    -->
+    <string name="nav_my_profile">My Profile</string>
+
+    <!--    item_task strings-->
+    <string name="action_add_list">Add List</string>
+    <string name="hint_list_name">List Name</string>
+    <string name="action_add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="add_list">Add List</string>
+
+    <!--    member activity-->
+    <string name="members">Members</string>
+    <string name="delete_board">Delete Board</string>
+
+
+    <!--    add memeber menu-->
+    <string name="add_member">Add Member</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="search_member">Search Member</string>
+
+    <!--    activity_card_details-->
+    <string name="update">UPDATE</string>
+    <string name="label_color">Label Color</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_members">Select Members</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+
+    <string name="alert">Alert</string>
+    <string name="confirmation_message_to_delete_card">Are you sure you want to delete card \'%1$s\'?</string>
+    <string name="confirmation_message_to_delete_board">Are you sure you want to delete board \'%1$s\'?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+<!--    color selector-->
+    <string name="str_select_label_color">Select Label Color</string>
+    <string name="default_notification_channel_id">projectManger_notification_channel_id</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+
+</resources>

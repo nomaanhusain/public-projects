@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    This contains the actual menu items of the nav bar-->
+    <group android:checkableBehavior="single">
+<!--        there is a property checked  on item that can help with functionlity of which is highlighted-->
+        <item android:id="@+id/navMyProfile"
+            android:icon="@drawable/ic_nav_user"
+            android:title="@string/nav_my_profile"/>
+        <item android:id="@+id/navSignOut"
+            android:icon="@drawable/ic_signout"
+            android:title="Sign Out"/>
+    </group>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PublicTransportTimer</string>
+    <string name="to_university_departure_info">From Home to Destination</string>
+<!--    <string name="to_zentrum">From Hallenbad to Bahnhof</string>-->
+<!--    <string name="to_home_from_zentrum">From Bahnhof to Hallenbad</string>-->
+    <string name="to_home_departure_info">From Destination to Home</string>
+    <string name="excel_info">The stop code has to be taken from the excel sheet on the BW website, it is the code in \'<b><i>globaleID</i></b>\' column corresponding to your desired stop. It can be downloaded by the link below</string>
+</resources>
